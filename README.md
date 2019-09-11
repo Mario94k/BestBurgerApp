@@ -1,8 +1,8 @@
 # BestBurger
-Aplikacija služi za uvid u recepte za pripremu raznih hamburgera.
+Best Burger je aplikacija koja sadrži recepte za pripremu raznih hamburgera.
 
 Ova aplikacija koristi [Google Sign-In](https://developers.google.com/identity/) za autentifikaciju, uz to se povezuje na GitHub na kojem se nalaze podaci o receptima koji su pohranjeni u [JSON](https://github.com/Mario94k/Burgers/blob/master/Burger21.json) file-u. 
-Aplikacija koristi user permissions za Internet koji je potreban da bi dohvatio podatke i prikazao slike o hamburgerima. Uz to nakon autentifikacije korisnika, omogućeno mu je korištenje kamere s time da korisnik mora prihvatiti permissions koji omogućuje pristup kameri.
+Aplikacija koristi user permissions za Internet koji je potreban da bi dohvatio podatke i prikazao slike o hamburgerima. Uz to nakon autentifikacije korisnika, omogućeno mu je korištenje kamere s time da korisnik mora prihvatiti permission koji omogućuje pristup kameri.
 
 Link na [NinjaMock](https://ninjamock.com/Designer/Workplace/86440922/Page1)
 
